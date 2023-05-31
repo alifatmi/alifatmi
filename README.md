@@ -1,9 +1,10 @@
 <!-- ![logo](https://github.com/Saim-Khalid/Saim-Khalid/blob/main/BANNER.png) -->
 <h1 align="center">Hi :wave:, My name is Syed Muhammad Ali Fatmi</h1>
 <h3 align="center">A have core intrest in  Artificial Intelligence(Computer Vision)(NLP)</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/alifatmi/alifatmi/assets/72988974/aebf98db-5cb1-4c85-9257-6635be5875f4">
+<img align="right" alt="coding" width="200" src="https://github.com/alifatmi/alifatmi/assets/72988974/aebf98db-5cb1-4c85-9257-6635be5875f4">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saim-khalid&label=Profile%20views&color=0e75b6&style=flat" alt="alifatmi" /> </p>
 - :seedling: I’m currently learning **Pytorch, Tensorflow**
+
 - :technologist: All of my projects are available [here](https://github.com/alifatmi).
 
 <!-- ![papp](https://github.com/alifatmi/alifatmi/assets/72988974/aebf98db-5cb1-4c85-9257-6635be5875f4) -->
