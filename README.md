@@ -2,9 +2,10 @@
 <h1 align="center">Hi :wave:, My name is Syed Muhammad Ali Fatmi</h1>
 <h3 align="center">A have core intrest in  Artificial Intelligence(Computer Vision)(NLP)</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saim-khalid&label=Profile%20views&color=0e75b6&style=flat" alt="saim-khalid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saim-khalid&label=Profile%20views&color=0e75b6&style=flat" alt="alifatmi" /> </p>
 - :seedling: I’m currently learning **Pytorch, Tensorflow**
-- :male-technologist: All of my projects are available at [https://github.com/alifatmi](https://github.com/alifatmi)
+- :technologist: All of my projects are available [here](https://github.com/alifatmi).
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/syed-muhammad-ali-fatmi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saim-khalid-aa762a136/" height="30" width="40" /></a>
